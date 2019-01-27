@@ -1,0 +1,2 @@
+# Python_Cricket-basic-
+IT IS JUST BASIC PROGRAM FOR CRICKET LOVERS .
